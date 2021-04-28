@@ -14,7 +14,7 @@ export default {
 
   defaults: {
     from: {
-      email: 'contato@tecmaa.com',
+      email: 'milenaalmeida@mboss.com',
       name: 'Milena da Tecmaa',
     },
   },
